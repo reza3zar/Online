@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b70689b-c62e-4ca0-b08c-291b5df630ac" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/persian-fonts/BKoodakBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/persian-fonts/BKoodakBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/persian-fonts/BKoodakBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/persian-fonts/WYekan.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/persian-fonts/WYekan.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/persian-fonts/WYekan.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/banner/cms-block.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/banner/responsive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/banner/sample-banner-1-400x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/banner/sample-banner-2-400x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/banner/sample-banner-3-400x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/banner/sample-banner-4-400x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/banner/sample-banner-5-400x150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/banner/small-banner-265x350.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/banner/small-banner1-265x350.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/bullet-dark-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/bullet-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/af.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/al.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/am.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/an.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/as.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/at.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/au.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/aw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/az.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/be.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/br.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/by.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/bz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/cz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/dj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/dk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/dm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/do.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/dz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/eg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/eh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/england.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/er.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/et.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/fam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/fi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/fj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/fk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/fm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/fo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/gy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/hk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/hn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/hr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ht.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/hu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/il.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/io.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/iq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ir.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/is.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/it.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/jm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/jo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/jp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ke.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/kg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/kh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ki.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/km.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/kn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/kp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/kr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/kw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/kz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/la.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/lb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/lc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/li.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/lk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/lr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/lt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/lu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/lv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ly.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/md.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ml.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/my.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/mz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/na.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/nc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/nf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ni.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/nl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/np.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/nr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/nu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/nz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/om.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/pw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/py.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/qa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/rw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/scotland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/se.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/si.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/so.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/st.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/sz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/td.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/th.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/to.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/tz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ua.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/um.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/uy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/uz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/va.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/vc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ve.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/vg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/vi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/vn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/vu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/wales.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/wf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ws.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/ye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/yt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/za.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/zm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/flags/zw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/no_image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/53.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/patterns/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_2checkout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_american.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_cirrus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_delta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_direct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_discover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_ebay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_google.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_maestro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_mastercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_moneybookers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_sagepay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_solo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_switch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/payment/payment_western_union.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/FinePix-Long-Zoom-Camera-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/FinePix-Long-Zoom-Camera-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/apple_cinema_30-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/apple_cinema_30-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/apple_logo-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/apple_logo-60x60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/canon_eos_5d_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/canon_logo-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/canon_logo-60x60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/hp_2-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/hp_3-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/hp_logo-60x60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/htc_logo-60x60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/iphone_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/iphone_1-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/iphone_6-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/iphone_6-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/ipod_classic_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/ipod_nano_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/ipod_shuffle_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/ipod_touch_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_1-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_2-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_2-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_3-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_3-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_4-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_4-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_5-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_5-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_1-350x350.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_1-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_1-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_1-66x66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_1-90x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_2-350x350.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_2-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_2-66x66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_3-350x350.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_3-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_3-66x66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_4-350x350.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_4-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_air_4-66x66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_pro_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_pro_1-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/macbook_pro_1-90x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/nikon_d300_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/nikon_d300_1-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/nikon_d300_4-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/nikon_d300_4-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/nikon_d300_5-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/nikon_d300_5-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/palm_logo-60x60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/palm_treo_pro_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/samsung_tab_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/samsung_tab_1-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/samsung_tab_1-90x90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/sony_logo-60x60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/sony_vaio_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/sony_vaio_1-50x50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/product/store_location-275x180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/slider/banner-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/slider/banner-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/slider/banner-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/bebo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/digg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/dopplr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/ember.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/evernote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/forrst.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/friendfeed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/google_plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/googletalk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/grooveshark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/lastfm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/mixx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/myspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/newsvine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/openid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/pandora.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/picasa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/posterous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/readernaut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/reddit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/sharethis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/spotify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/technorati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/viadeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/viddler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/virb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/vk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/xing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/yahoobuzz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/yelp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/image/socialicons/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/swipebox/src/img/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/swipebox/src/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/coloredbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/gridtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/gridtile_3x3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/gridtile_3x3_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/gridtile_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/ig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/post.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/revolution_slide1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/revolution_slide2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/tw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/vm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/wc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/assets/sources/yt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/closedhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/openhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/font-awesome/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/pe-icon-7-stroke/css/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/pe-icon-7-stroke/fonts/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/pe-icon-7-stroke/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/revicons/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/revicons/revicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/revicons/revicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/revicons/revicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/source/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/model/feature.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/model/product.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/owl.transitions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/responsive-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/stylesheet-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/stylesheet-skin2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/stylesheet-skin3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/stylesheet-skin4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap-flipped.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap-flipped.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap-flipped.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap-rtl.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/jquery-2.1.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/jquery.dcjqaccordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/jquery.dcjqaccordion.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/jquery.easing-1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/jquery.elevateZoom-3.0.8.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/jquery.elevatezoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/swipebox/lib/ios-orientationchange-fix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/swipebox/lib/jquery-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/swipebox/src/css/swipebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/swipebox/src/css/swipebox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/swipebox/src/img/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/swipebox/src/js/jquery.swipebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/js/swipebox/src/js/jquery.swipebox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/layers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/ares.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/dione.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/erinyen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/gyges.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/hades.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/hebe.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/hephaistos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/hermes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/hesperiden.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/metis.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/persephone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/uranus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation-skins/zeus.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/navigation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/css/settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/pe-icon-7-stroke/css/helper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/fonts/revicons/revicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/info.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/revolution.extension.actions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/revolution.extension.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/revolution.extension.kenburn.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/revolution.extension.migration.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/revolution.extension.navigation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/revolution.extension.parallax.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/revolution.extension.slideanims.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/revolution.extension.video.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/revolution.extension.actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/revolution.extension.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/revolution.extension.kenburn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/revolution.extension.layeranimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/revolution.extension.migration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/revolution.extension.navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/revolution.extension.parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/revolution.extension.slideanims.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/extensions/source/revolution.extension.video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/jquery.themepunch.enablelog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/jquery.themepunch.tools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/source/jquery.themepunch.enablelog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/source/jquery.themepunch.revolution.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/js/source/jquery.themepunch.tools.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/facebook/class-facebook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/flickr/class-flickr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/instagram/class-instagram.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/twitter/RestApi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/twitter/class-twitter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/twitter/connection/Application.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/twitter/connection/ConnectionAbstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/twitter/connection/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/vimeo/class-vimeo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/revolution/php/youtube/class-youtube.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.angular-cli.json" afterPath="$PROJECT_DIR$/.angular-cli.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.html" afterPath="$PROJECT_DIR$/src/app/app.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.ts" afterPath="$PROJECT_DIR$/src/app/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="banner.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/banner/banner.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="68" lean-forward="false" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+              <folding>
+                <element signature="e#623#627#1" expanded="true" />
+                <element signature="e#679#683#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="39" column="83" lean-forward="false" selection-start-line="39" selection-start-column="83" selection-end-line="39" selection-end-column="83" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#app-root#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/banner/banner.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feature.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/services/feature.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="122" lean-forward="false" selection-start-line="13" selection-start-column="122" selection-end-line="13" selection-end-column="122" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feature.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/model/feature.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="features.component.spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/features/features.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feature.service.spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/services/feature.service.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="866" column="134" lean-forward="true" selection-start-line="866" selection-start-column="47" selection-end-line="866" selection-end-column="134" />
+              <folding>
+                <element signature="e#7521#7527#0" expanded="true" />
+                <element signature="e#7527#7533#0" expanded="true" />
+                <element signature="e#7533#7539#0" expanded="true" />
+                <element signature="e#8980#8988#1" expanded="true" />
+                <element signature="e#9706#9714#1" expanded="true" />
+                <element signature="e#10345#10353#1" expanded="true" />
+                <element signature="e#10906#10914#1" expanded="true" />
+                <element signature="e#11427#11435#1" expanded="true" />
+                <element signature="e#11947#11955#1" expanded="true" />
+                <element signature="e#12296#12304#1" expanded="true" />
+                <element signature="e#12711#12716#0" expanded="true" />
+                <element signature="e#12734#12742#1" expanded="true" />
+                <element signature="e#13509#13517#1" expanded="true" />
+                <element signature="e#14135#14143#1" expanded="true" />
+                <element signature="e#15367#15375#1" expanded="true" />
+                <element signature="e#15792#15800#1" expanded="true" />
+                <element signature="e#16259#16267#1" expanded="true" />
+                <element signature="e#16689#16697#1" expanded="true" />
+                <element signature="e#17128#17133#0" expanded="true" />
+                <element signature="e#17766#17771#0" expanded="true" />
+                <element signature="e#17958#17966#1" expanded="true" />
+                <element signature="e#18485#18490#0" expanded="true" />
+                <element signature="e#19283#19288#0" expanded="true" />
+                <element signature="e#19908#19913#0" expanded="true" />
+                <element signature="e#31737#31742#0" expanded="true" />
+                <element signature="e#35050#35055#0" expanded="true" />
+                <element signature="e#35588#35593#0" expanded="true" />
+                <element signature="e#36182#36187#0" expanded="true" />
+                <element signature="e#36817#36822#0" expanded="true" />
+                <element signature="e#37348#37353#0" expanded="true" />
+                <element signature="e#55314#55319#0" expanded="true" />
+                <element signature="e#87971#87976#0" expanded="true" />
+                <element signature="e#113158#113163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="features.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/features/features.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ng2-carouselamos</find>
+      <find>slide</find>
+      <find>script</find>
+      <find>اپل</find>
+      <find>ویژه</find>
+      <find>src=&quot;image</find>
+      <find>Free Return</find>
+      <find>cutomAccordion</find>
+      <find>Buy</find>
+      <find>down</find>
+      <find>hover</find>
+      <find>image/banner/small-banner1-265x350.jpg</find>
+      <find>reza</find>
+      <find>menu</find>
+      <find>cat_accordion</find>
+      <find>$screensize</find>
+      <find>dropdown wrap_custom_block</find>
+      <find>dr</find>
+      <find>categories</find>
+      <find>header</find>
+      <find>clot</find>
+      <find>navbar-header</find>
+      <find>each</find>
+      <find>class=&quot;owl-item&quot;</find>
+      <find>product_carousel</find>
+      <find>carouse</find>
+      <find>owl-carousel</find>
+      <find>Featured</find>
+      <find>NgxCarousel</find>
+      <find>slideshow</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>src=&quot;../assets/image</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/model/product.ts" />
+        <option value="$PROJECT_DIR$/src/app/services/product.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/product/product.component.css" />
+        <option value="$PROJECT_DIR$/src/assets/js/custom.js" />
+        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/src/feature.ts" />
+        <option value="$PROJECT_DIR$/src/app/feature.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/product/product.component.html" />
+        <option value="$PROJECT_DIR$/src/app/product/product.component.ts" />
+        <option value="$PROJECT_DIR$/.angular-cli.json" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/features/features.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/features/features.component.css" />
+        <option value="$PROJECT_DIR$/src/app/model/feature.ts" />
+        <option value="$PROJECT_DIR$/src/app/services/feature.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/features/features.component.html" />
+        <option value="$PROJECT_DIR$/src/app/banner/banner.component.css" />
+        <option value="$PROJECT_DIR$/src/app/banner/banner.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/src/app/banner/banner.component.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineMarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="banner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ASPNETCore2JwtAuthentication-master/ASPNETCore2JwtAuthentication-master/src/ASPNETCore2JwtAuthentication.AngularClient" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Class Entity\OnlineMarket\OnlineMarket\src\app\services" />
+      <recent name="G:\Class Entity\OnlineMarket\OnlineMarket\src\app\model" />
+      <recent name="G:\Class Entity\OnlineMarket\OnlineMarket\src\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\WebstormProjects\OnlineMarket\src\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" value="G:\Class Entity\OnlineMarket\OnlineMarket\src\app\features" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b70689b-c62e-4ca0-b08c-291b5df630ac" name="Default" comment="" />
+      <created>1515158224813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515158224813</updated>
+      <workItem from="1515158227402" duration="3540000" />
+      <workItem from="1515162066277" duration="2575000" />
+      <workItem from="1515164688890" duration="2755000" />
+      <workItem from="1515167696481" duration="126000" />
+      <workItem from="1515168055213" duration="4336000" />
+      <workItem from="1515175798409" duration="37000" />
+      <workItem from="1515226494947" duration="32265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45634000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24762908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33110368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33441558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="F:/Nodejs/reza/CRUDServer/OnlineMarketing/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34160">
+          <caret line="854" column="35" lean-forward="false" selection-start-line="854" selection-start-column="31" selection-end-line="854" selection-end-column="35" />
+          <folding>
+            <element signature="e#7521#7527#0" expanded="true" />
+            <element signature="e#7527#7533#0" expanded="true" />
+            <element signature="e#7533#7539#0" expanded="true" />
+            <element signature="e#8980#8988#1" expanded="true" />
+            <element signature="e#9706#9714#1" expanded="true" />
+            <element signature="e#10345#10353#1" expanded="true" />
+            <element signature="e#10906#10914#1" expanded="true" />
+            <element signature="e#11427#11435#1" expanded="true" />
+            <element signature="e#11947#11955#1" expanded="true" />
+            <element signature="e#12296#12304#1" expanded="true" />
+            <element signature="e#12711#12716#0" expanded="true" />
+            <element signature="e#12734#12742#1" expanded="true" />
+            <element signature="e#13509#13517#1" expanded="true" />
+            <element signature="e#14135#14143#1" expanded="true" />
+            <element signature="e#15367#15375#1" expanded="true" />
+            <element signature="e#15792#15800#1" expanded="true" />
+            <element signature="e#16259#16267#1" expanded="true" />
+            <element signature="e#16689#16697#1" expanded="true" />
+            <element signature="e#17128#17133#0" expanded="true" />
+            <element signature="e#17766#17771#0" expanded="true" />
+            <element signature="e#17958#17966#1" expanded="true" />
+            <element signature="e#18485#18490#0" expanded="true" />
+            <element signature="e#19283#19288#0" expanded="true" />
+            <element signature="e#19908#19913#0" expanded="true" />
+            <element signature="e#31737#31742#0" expanded="true" />
+            <element signature="e#35050#35055#0" expanded="true" />
+            <element signature="e#35588#35593#0" expanded="true" />
+            <element signature="e#36182#36187#0" expanded="true" />
+            <element signature="e#36817#36822#0" expanded="true" />
+            <element signature="e#37348#37353#0" expanded="true" />
+            <element signature="e#55314#55319#0" expanded="true" />
+            <element signature="e#87971#87976#0" expanded="true" />
+            <element signature="e#113158#113163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#app-root#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#7521#7527#0" expanded="true" />
+            <element signature="e#7527#7533#0" expanded="true" />
+            <element signature="e#7533#7539#0" expanded="true" />
+            <element signature="e#8980#8988#1" expanded="true" />
+            <element signature="e#9706#9714#1" expanded="true" />
+            <element signature="e#10345#10353#1" expanded="true" />
+            <element signature="e#10906#10914#1" expanded="true" />
+            <element signature="e#11427#11435#1" expanded="true" />
+            <element signature="e#11947#11955#1" expanded="true" />
+            <element signature="e#12296#12304#1" expanded="true" />
+            <element signature="e#12711#12716#0" expanded="true" />
+            <element signature="e#12734#12742#1" expanded="true" />
+            <element signature="e#13509#13517#1" expanded="true" />
+            <element signature="e#14135#14143#1" expanded="true" />
+            <element signature="e#15367#15375#1" expanded="true" />
+            <element signature="e#15792#15800#1" expanded="true" />
+            <element signature="e#16259#16267#1" expanded="true" />
+            <element signature="e#16689#16697#1" expanded="true" />
+            <element signature="e#17128#17133#0" expanded="true" />
+            <element signature="e#17766#17771#0" expanded="true" />
+            <element signature="e#17958#17966#1" expanded="true" />
+            <element signature="e#18485#18490#0" expanded="true" />
+            <element signature="e#19283#19288#0" expanded="true" />
+            <element signature="e#19908#19913#0" expanded="true" />
+            <element signature="e#31737#31742#0" expanded="true" />
+            <element signature="e#35050#35055#0" expanded="true" />
+            <element signature="e#35588#35593#0" expanded="true" />
+            <element signature="e#36182#36187#0" expanded="true" />
+            <element signature="e#36817#36822#0" expanded="true" />
+            <element signature="e#37348#37353#0" expanded="true" />
+            <element signature="e#55314#55319#0" expanded="true" />
+            <element signature="e#87971#87976#0" expanded="true" />
+            <element signature="e#113158#113163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#app-root#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#7521#7527#0" expanded="true" />
+            <element signature="e#7527#7533#0" expanded="true" />
+            <element signature="e#7533#7539#0" expanded="true" />
+            <element signature="e#8980#8988#1" expanded="true" />
+            <element signature="e#9706#9714#1" expanded="true" />
+            <element signature="e#10345#10353#1" expanded="true" />
+            <element signature="e#10906#10914#1" expanded="true" />
+            <element signature="e#11427#11435#1" expanded="true" />
+            <element signature="e#11947#11955#1" expanded="true" />
+            <element signature="e#12296#12304#1" expanded="true" />
+            <element signature="e#12711#12716#0" expanded="true" />
+            <element signature="e#12734#12742#1" expanded="true" />
+            <element signature="e#13509#13517#1" expanded="true" />
+            <element signature="e#14135#14143#1" expanded="true" />
+            <element signature="e#15367#15375#1" expanded="true" />
+            <element signature="e#15792#15800#1" expanded="true" />
+            <element signature="e#16259#16267#1" expanded="true" />
+            <element signature="e#16689#16697#1" expanded="true" />
+            <element signature="e#17128#17133#0" expanded="true" />
+            <element signature="e#17766#17771#0" expanded="true" />
+            <element signature="e#17958#17966#1" expanded="true" />
+            <element signature="e#18485#18490#0" expanded="true" />
+            <element signature="e#19283#19288#0" expanded="true" />
+            <element signature="e#19908#19913#0" expanded="true" />
+            <element signature="e#31737#31742#0" expanded="true" />
+            <element signature="e#35050#35055#0" expanded="true" />
+            <element signature="e#35588#35593#0" expanded="true" />
+            <element signature="e#36182#36187#0" expanded="true" />
+            <element signature="e#36817#36822#0" expanded="true" />
+            <element signature="e#37348#37353#0" expanded="true" />
+            <element signature="e#55314#55319#0" expanded="true" />
+            <element signature="e#87971#87976#0" expanded="true" />
+            <element signature="e#113158#113163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="14" column="76" lean-forward="true" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#app-root#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#7521#7527#0" expanded="true" />
+            <element signature="e#7527#7533#0" expanded="true" />
+            <element signature="e#7533#7539#0" expanded="true" />
+            <element signature="e#8980#8988#1" expanded="true" />
+            <element signature="e#9706#9714#1" expanded="true" />
+            <element signature="e#10345#10353#1" expanded="true" />
+            <element signature="e#10906#10914#1" expanded="true" />
+            <element signature="e#11427#11435#1" expanded="true" />
+            <element signature="e#11947#11955#1" expanded="true" />
+            <element signature="e#12296#12304#1" expanded="true" />
+            <element signature="e#12711#12716#0" expanded="true" />
+            <element signature="e#12734#12742#1" expanded="true" />
+            <element signature="e#13509#13517#1" expanded="true" />
+            <element signature="e#14135#14143#1" expanded="true" />
+            <element signature="e#15367#15375#1" expanded="true" />
+            <element signature="e#15792#15800#1" expanded="true" />
+            <element signature="e#16259#16267#1" expanded="true" />
+            <element signature="e#16689#16697#1" expanded="true" />
+            <element signature="e#17128#17133#0" expanded="true" />
+            <element signature="e#17766#17771#0" expanded="true" />
+            <element signature="e#17958#17966#1" expanded="true" />
+            <element signature="e#18485#18490#0" expanded="true" />
+            <element signature="e#19283#19288#0" expanded="true" />
+            <element signature="e#19908#19913#0" expanded="true" />
+            <element signature="e#31737#31742#0" expanded="true" />
+            <element signature="e#35050#35055#0" expanded="true" />
+            <element signature="e#35588#35593#0" expanded="true" />
+            <element signature="e#36182#36187#0" expanded="true" />
+            <element signature="e#36817#36822#0" expanded="true" />
+            <element signature="e#37348#37353#0" expanded="true" />
+            <element signature="e#55314#55319#0" expanded="true" />
+            <element signature="e#87971#87976#0" expanded="true" />
+            <element signature="e#113158#113163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#app-root#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70760">
+          <caret line="1769" column="45" lean-forward="false" selection-start-line="1769" selection-start-column="45" selection-end-line="1769" selection-end-column="45" />
+          <folding>
+            <element signature="e#7521#7527#0" expanded="true" />
+            <element signature="e#7527#7533#0" expanded="true" />
+            <element signature="e#7533#7539#0" expanded="true" />
+            <element signature="e#8980#8988#1" expanded="true" />
+            <element signature="e#9706#9714#1" expanded="true" />
+            <element signature="e#10345#10353#1" expanded="true" />
+            <element signature="e#10906#10914#1" expanded="true" />
+            <element signature="e#11427#11435#1" expanded="true" />
+            <element signature="e#11947#11955#1" expanded="true" />
+            <element signature="e#12296#12304#1" expanded="true" />
+            <element signature="e#12711#12716#0" expanded="true" />
+            <element signature="e#12734#12742#1" expanded="true" />
+            <element signature="e#13509#13517#1" expanded="true" />
+            <element signature="e#14135#14143#1" expanded="true" />
+            <element signature="e#15367#15375#1" expanded="true" />
+            <element signature="e#15792#15800#1" expanded="true" />
+            <element signature="e#16259#16267#1" expanded="true" />
+            <element signature="e#16689#16697#1" expanded="true" />
+            <element signature="e#17128#17133#0" expanded="true" />
+            <element signature="e#17766#17771#0" expanded="true" />
+            <element signature="e#17958#17966#1" expanded="true" />
+            <element signature="e#18485#18490#0" expanded="true" />
+            <element signature="e#19283#19288#0" expanded="true" />
+            <element signature="e#19908#19913#0" expanded="true" />
+            <element signature="e#31737#31742#0" expanded="true" />
+            <element signature="e#35050#35055#0" expanded="true" />
+            <element signature="e#35588#35593#0" expanded="true" />
+            <element signature="e#36182#36187#0" expanded="true" />
+            <element signature="e#36817#36822#0" expanded="true" />
+            <element signature="e#37348#37353#0" expanded="true" />
+            <element signature="e#55314#55319#0" expanded="true" />
+            <element signature="e#87971#87976#0" expanded="true" />
+            <element signature="e#113158#113163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.prod.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.430/readmore.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/font-awesome/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/model/product.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="424" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/product/product.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!block;n#ngAfterContentInit#0;n#AppComponent#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/services/product.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="806" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1990" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/product/product.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/product/product.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="31" column="43" lean-forward="false" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <marker date="1515514325229" expanded="true" signature="744:757" ph="[...]" />
+            <marker date="1515514325229" expanded="true" signature="744:939" ph="{...}" />
+            <marker date="1515514325229" expanded="true" signature="770:849" ph="[...]" />
+            <marker date="1515514325229" expanded="true" signature="864:908" ph="[...]" />
+            <marker date="1515514325229" expanded="true" signature="964:967" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/features/features.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="66" column="3" lean-forward="false" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+            <element signature="e#783#1729#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/features/features.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/services/feature.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/model/feature.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/features/features.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/services/feature.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="122" lean-forward="false" selection-start-line="13" selection-start-column="122" selection-end-line="13" selection-end-column="122" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/banner/banner.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/banner/banner.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/features/features.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding>
+            <element signature="e#2841#2845#1" expanded="true" />
+            <element signature="e#2899#2903#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/banner/banner.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="68" lean-forward="false" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+          <folding>
+            <element signature="e#623#627#1" expanded="true" />
+            <element signature="e#679#683#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="866" column="134" lean-forward="true" selection-start-line="866" selection-start-column="47" selection-end-line="866" selection-end-column="134" />
+          <folding>
+            <element signature="e#7521#7527#0" expanded="true" />
+            <element signature="e#7527#7533#0" expanded="true" />
+            <element signature="e#7533#7539#0" expanded="true" />
+            <element signature="e#8980#8988#1" expanded="true" />
+            <element signature="e#9706#9714#1" expanded="true" />
+            <element signature="e#10345#10353#1" expanded="true" />
+            <element signature="e#10906#10914#1" expanded="true" />
+            <element signature="e#11427#11435#1" expanded="true" />
+            <element signature="e#11947#11955#1" expanded="true" />
+            <element signature="e#12296#12304#1" expanded="true" />
+            <element signature="e#12711#12716#0" expanded="true" />
+            <element signature="e#12734#12742#1" expanded="true" />
+            <element signature="e#13509#13517#1" expanded="true" />
+            <element signature="e#14135#14143#1" expanded="true" />
+            <element signature="e#15367#15375#1" expanded="true" />
+            <element signature="e#15792#15800#1" expanded="true" />
+            <element signature="e#16259#16267#1" expanded="true" />
+            <element signature="e#16689#16697#1" expanded="true" />
+            <element signature="e#17128#17133#0" expanded="true" />
+            <element signature="e#17766#17771#0" expanded="true" />
+            <element signature="e#17958#17966#1" expanded="true" />
+            <element signature="e#18485#18490#0" expanded="true" />
+            <element signature="e#19283#19288#0" expanded="true" />
+            <element signature="e#19908#19913#0" expanded="true" />
+            <element signature="e#31737#31742#0" expanded="true" />
+            <element signature="e#35050#35055#0" expanded="true" />
+            <element signature="e#35588#35593#0" expanded="true" />
+            <element signature="e#36182#36187#0" expanded="true" />
+            <element signature="e#36817#36822#0" expanded="true" />
+            <element signature="e#37348#37353#0" expanded="true" />
+            <element signature="e#55314#55319#0" expanded="true" />
+            <element signature="e#87971#87976#0" expanded="true" />
+            <element signature="e#113158#113163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="39" column="83" lean-forward="false" selection-start-line="39" selection-start-column="83" selection-end-line="39" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#app-root#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
